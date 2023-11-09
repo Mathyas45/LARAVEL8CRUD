@@ -1,2 +1,2 @@
 # LARAVEL8CRUD
-crud en laravel usando livewire y admin lte
+crud en laravel usando jetstream y admin lte
